@@ -1,7 +1,8 @@
 package sorting;
 
 
-// time complexity is O(n^2) 
+// time complexity is O(n^2)
+
 
 public class SelectionSort {
 
